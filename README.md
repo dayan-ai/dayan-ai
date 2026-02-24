@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I'm Muhammad Dayan<br>Data Science Undergrad | Automation Builder |<br>Business Development Associate | Community Builder
+I am a Data Science student at UET Lahore who loves bridging the gap between Tech, Business Growth, and Community. currently, I’m mastering the art of B2B Lead Generation and building AI Automation workflows.
+
+🔭 I’m currently working on: My own SaaS product (Stealth Mode) & driving growth at BetaSync LLC.
+🌱 I’m currently learning: Advanced Data Structures, AI Agents, and Scalable Architecture.
+👯 I’m looking to collaborate on: Open Source Data Projects, Automation Workflows, and Tech Community Events.
+💬 Ask me about: Python, SQL, n8n Automations, B2B Sales Strategy, and Personal Branding.
 
 
 ## 🌐 Socials:

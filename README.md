@@ -1,152 +1,240 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3c72,100:2a5298&height=140&section=header&text=Muhammad%20Dayan&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Data%20Science%20Undergrad%20%40%20UET%20Lahore%20%7C%20SaaS%20Builder%20%7C%20AI%20Automation&descAlignY=62&descSize=15&descAlign=50" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Dayan;Data+Science+Undergrad+%40+UET;Building+SaaS+%26+Automations;Welcome+to+my+Tech+Arsenal+🚀" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=700&lines=Data+Science+Undergrad+%40+UET+Lahore+%F0%9F%8E%93;Building+SaaS+Products+%F0%9F%9A%80;Creating+AI+Automation+Workflows+%E2%9A%A1;Exploring+AI+Agents+%26+Scalable+Systems+%F0%9F%A4%96;Bridging+Tech%2C+Business+%26+Community+%F0%9F%8C%90" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20Open%20to-Data%20Science%20%7C%20AI%20%7C%20Automation%20Opportunities-22c55e?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-dayan-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="https://instagram.com/introvert_dayan">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="mailto:datascientistdayan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
+</p>
 
-  <p align="center">
-    <a href="https://instagram.com/introvert_dayan">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://www.linkedin.com/in/m-dayan-dev">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:datascientistdayan@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dayan-ai&label=Profile+Views&color=3670a0&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/dayan-ai?label=Followers&style=for-the-badge&color=3670a0&labelColor=0d1117" />
+  <a href="https://github.com/dayan-ai">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### 💫 About Me:
-I am a **Data Science student at UET Lahore** who loves bridging the gap between Tech, Business Growth, and Community. Currently, I’m mastering the art of **B2B Lead Generation** and building **AI Automation workflows**.
+## 👾 About Me
 
-🔭 I’m currently working on: **My own SaaS product (Stealth Mode)** & driving growth at **BetaSync LLC**.
-🌱 I’m currently learning: **Advanced Data Structures, AI Agents, and Scalable Architecture**.
-👯 I’m looking to collaborate on: **Open Source Data Projects, Automation Workflows, and Tech Community Events**.
-💬 Ask me about: **Python, SQL, n8n Automations, B2B Sales Strategy, and Personal Branding**.
----
+```yaml
+name: Muhammad Dayan
+role: Data Science Undergraduate | SaaS Builder | AI Automation Enthusiast
+university: University of Engineering & Technology (UET), Lahore
+location: Lahore, Pakistan
 
-### 💻 Tech Stack & Arsenal:
+what_i_do:
+  - Build data-driven applications and SaaS products
+  - Create AI-powered automation workflows
+  - Explore B2B lead generation and growth systems
+  - Bridge technology, business growth, and community
 
-**Programming Languages**
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
-</div>
+currently:
+  - 🚀 Building my own SaaS product in stealth mode
+  - 📈 Driving business growth at BetaSync LLC
+  - 🤖 Exploring AI agents and automation workflows
+  - 📚 Learning advanced data structures and scalable architecture
 
-**Data Science & Analysis**
-<div align="center">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" />
-</div>
+passionate_about:
+  - 📊 Data Science & Machine Learning
+  - 🤖 Artificial Intelligence & AI Agents
+  - ⚡ Automation & SaaS products
+  - 📈 B2B growth & lead generation
+  - 🌐 Tech communities & personal branding
 
-**Web Development (Frontend & Backend)**
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" />
-  <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-</div>
+open_to:
+  - Data Science & AI internships
+  - AI Automation collaborations
+  - Open-source data projects
+  - SaaS & startup collaborations
+  - Tech community events
 
-**Databases & Cloud Computing**
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
-</div>
+```
 
-**DevOps, Git & Tools**
-<div align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
-  <img src="https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-</div>
+## 🛠️ Tech Stack
 
-**Creative Suite & Design**
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-  <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" />
-  <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,powershell,html,css,sass,bootstrap,angular,nextjs,nodejs,django,flask,fastapi,aws,gcp,firebase,appwrite,vercel,mysql,postgres,mongodb,git,github,gitlab,kubernetes,postman,figma,unity,arduino&perline=10" />
+</p>
 
-**Hardware & Other**
-<div align="center">
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-AI%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-</div>
+## 🚀 What I'm Building
 
-<div align="center">
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dayan-ai&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
-
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 SaaS Product</h3>
+      <p><b>Stealth Mode</b></p>
+      <p>Building my own SaaS product while exploring scalable product architecture, automation, and data-driven development.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Development-3670A0?style=for-the-badge&labelColor=0d1117" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Automation Workflows</h3>
+      <p><b>n8n · Python · AI Agents</b></p>
+      <p>Designing automation workflows that connect tools, reduce repetitive work, and explore practical AI-agent use cases.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-AI%20Automation-3670A0?style=for-the-badge&labelColor=0d1117" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>📈 B2B Growth Systems</h3>
+      <p><b>Lead Generation · Growth · Automation</b></p>
+      <p>Exploring data-driven B2B lead generation, sales strategy, automation, and scalable growth systems while contributing at BetaSync LLC.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-B2B%20Growth-3670A0?style=for-the-badge&labelColor=0d1117" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <h3>🔝 Top Contributions</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=dayan-ai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
+## 📌 Pinned Projects
+
+<!-- Replace REPO_NAME_1, REPO_NAME_2, etc. with Muhammad Dayan's actual GitHub repository names. -->
+
+<p align="center">
+  <a href="https://github.com/dayan-ai/REPO_NAME_1">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dayan-ai&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/dayan-ai/REPO_NAME_2">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dayan-ai&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dayan-ai/REPO_NAME_3">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dayan-ai&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/dayan-ai/REPO_NAME_4">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=dayan-ai&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+## 🏗️ What I'm Currently Working On
+
+- 🚀 Building a **SaaS product** currently in stealth mode
+- 🤖 Creating **AI automation workflows** using n8n, Python, and AI tools
+- 📈 Exploring **B2B lead generation, sales strategy, and scalable growth systems**
+- 🧠 Learning **AI Agents, Advanced Data Structures, and Scalable Architecture**
+- 📊 Strengthening my skills in **Data Science, Machine Learning, and Data Analytics**
+- 🤝 Looking to collaborate on **Open Source, Automation, SaaS, and Tech Community projects**
+
+---
+
+## 🌐 Tech, Business & Community
+
+I enjoy working at the intersection of **technology, business growth, and community**, using technical skills to solve practical problems and build scalable systems.
+
+| Focus | What I Do |
+|---|---|
+| 📊 Data & AI | Data Science, Machine Learning, analytics, and AI experimentation |
+| 🤖 Automation | Build workflows using n8n, Python, APIs, and AI tools |
+| 📈 Business Growth | Explore B2B lead generation, sales strategy, and growth systems |
+| 🚀 SaaS | Build and experiment with scalable software products |
+| 🌐 Community | Collaborate on open-source projects and tech community events |
+| 🎯 Mission | Build useful technology that connects data, automation, and business impact |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dayan-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dayan-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=dayan-ai&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dayan-ai&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dayan-ai&theme=tokyo-night&bg_color=0d1117&color=3670A0&line=3670A0&point=ffffff&area=true&hide_border=true" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dayan-ai&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dayan-ai&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dayan-ai&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dayan-ai&theme=github_dark&utcOffset=5" />
+</p>
+
+---
+
+## 📈 3D Contribution Graph
+
+<!-- Requires a GitHub Action that generates profile-3d-contrib/profile-night-green.svg -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dayan-ai/dayan-ai/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- Requires a GitHub Action that generates the snake SVG files inside the output branch -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dayan-ai/dayan-ai/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dayan-ai/dayan-ai/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/dayan-ai/dayan-ai/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+I'm interested in opportunities and collaborations across **Data Science, AI, SaaS, Automation, and Technology Communities**.
+
+If you're building something interesting, working on open source, or want to talk about data, AI automation, SaaS, or business growth, feel free to reach out.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-dayan-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:datascientistdayan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,50:1e3c72,100:0f0c29&height=100&section=footer" />
